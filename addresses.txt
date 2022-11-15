@@ -1,0 +1,30 @@
+   {
+      "Address": 5889024,
+      "Name": "User$$HasSkin",
+      "Signature": "bool User__HasSkin (User_o* __this, System_String_o* skinID, const MethodInfo* method);",
+      "TypeSignature": "iiii"
+    },
+    {
+      "Address": 5889200,
+      "Name": "User$$HasVariant",
+      "Signature": "bool User__HasVariant (User_o* __this, System_String_o* skinID, System_String_o* variantName, int32_t variantID, const MethodInfo* method);",
+      "TypeSignature": "iiiiii"
+    },
+    {
+      "Address": 5888304,
+      "Name": "User$$HasAnimation",
+      "Signature": "bool User__HasAnimation (User_o* __this, System_String_o* animationID, const MethodInfo* method);",
+      "TypeSignature": "iiii"
+    },
+    {
+      "Address": 5888880,
+      "Name": "User$$HasFootstep",
+      "Signature": "bool User__HasFootstep (User_o* __this, System_String_o* footstepID, const MethodInfo* method);",
+      "TypeSignature": "iiii"
+    },
+    {
+      "Address": 5888608,
+      "Name": "User$$HasEmote",
+      "Signature": "bool User__HasEmote (User_o* __this, System_String_o* emoteID, const MethodInfo* method);",
+      "TypeSignature": "iiii"
+    },
